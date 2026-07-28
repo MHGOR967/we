@@ -16,7 +16,7 @@ DEFAULT_CONFIG = {
     ],
     "vip_price": 99,
     "vip_description": "🌟 عضوية VIP مدى الحياة - ميزات حصرية وأولوية في الخدمة",
-    "webapp_url": "https://your-webapp-domain.com",
+    "webapp_url": "https://pywahm.onrender.com",
     "invite_reward_points": 5,
     "free_attempts": 2
 }
